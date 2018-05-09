@@ -39,8 +39,16 @@ body {
   letter-spacing: -.05rem;
 }
 
+.alerte {
+  background-color: #F25F5C;
+}
+
 .conseil {
-  background-color: #181313;
+  background-color: #297FCA;
+}
+
+.pertubation {
+  background-color: #39CC76;
 }
 
 
