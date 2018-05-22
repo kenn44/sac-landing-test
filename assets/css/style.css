@@ -39,9 +39,9 @@ body {
   letter-spacing: -.05rem;
 }
 
-/* .first {
-  background: url(first.png);
-} */
+.first {
+  background-image: url("../img/first.png");
+}
 
 .alerte {
   background-color: #F25F5C;
